@@ -3,5 +3,6 @@ setuptools==60.2.0
 wheel==0.37.1
 fastapi
 uvicorn
+python-multipart
 
 

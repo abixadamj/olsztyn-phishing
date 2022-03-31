@@ -1,0 +1,8 @@
+Dane: Name -> Adasiek Adasiek | email -> moj_email@domena.com | haslo -> MojeHasło 
+Dane: Name -> blablaffffff | email -> costam@44.net | haslo -> ndsajkaf 
+Dane: Name -> Witam Witam | email -> Witam@witam.com | haslo -> MojeHasloDoKontaWitam 
+Dane: Name -> Andrzej Zimny | email -> jakubS@email.net | haslo -> *** 
+Dane: Name -> Pozdrawiam | email -> Pozdrawiam@filipkowalewski.pl | haslo -> Pozdrawiam123 
+Dane: Name -> Jan Siemszko | email -> czerwony@maluch.pl | haslo -> dupa 
+Dane: Name -> Maciek Kowalski | email -> grhu@com.pl | haslo -> reyklti;oiu'ordjytk 
+Dane: Name -> NIC | email -> dfsadf@ddd.ccc | haslo -> fasdfasdfasdfas 
